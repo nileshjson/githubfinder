@@ -1,3 +1,2 @@
-# GitHub Search User
+https://animated-mermaid-f1e5eb.netlify.app/
 
-[Watch video](https://www.youtube.com/watch?v=Uhw_AUrZ3bo)
